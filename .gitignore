@@ -1,0 +1,9 @@
+# Netbeans
+/target/
+/nb-configuration.xml
+/nbproject/
+build.xml
+manifest.mf
+
+/build/
+/dist/
